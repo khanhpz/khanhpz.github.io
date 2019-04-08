@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charSet="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Get More Subscribers Using Growth Tools Chatbot · BotStar</title>
+  <meta name="viewport" content="width=device-width" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <meta name="description"
+    content="Growth Tools feature brings more users to chatbot. Open the conversation directly with the chatbot at a designated block. Link the user to the chatbot immediately with Messenger Code. Display a checkbox for users to choose and receive messages from chatbot. Automatically respond to comments and send messages to Facebook user." />
+  <meta name="docsearch:language" content="en" />
+  <link rel="alternate" hrefLang="en" href="https://docs.botstar.com/en/growth-tools.html" />
+  <link rel="alternate" hrefLang="vi" href="https://docs.botstar.com/vi/growth-tools.html" />
+  <link rel="alternate" hrefLang="x-default" href="https://docs.botstar.com/en/growth-tools.html" />
+  <meta name="author" content="BotStar Team" />
+  <meta property="fb:app_id" content="829914727169700" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Get More Subscribers Using Growth Tools Chatbot · BotStar" />
+  <meta property="og:description"
+    content="Growth Tools feature brings more users to chatbot. Open the conversation directly with the chatbot at a designated block. Link the user to the chatbot immediately with Messenger Code. Display a checkbox for users to choose and receive messages from chatbot. Automatically respond to comments and send messages to Facebook user." />
+  <meta property="og:url" content="https://docs.botstar.com/en/growth-tools.html" />
+  <meta property="og:image" content="https://docs.botstar.com/img/growth-tools/messenger-ref-url.png" />
+  <meta name="twitter:title" content="Get More Subscribers Using Growth Tools Chatbot · BotStar" />
+  <meta name="twitter:description"
+    content="Growth Tools feature brings more users to chatbot. Open the conversation directly with the chatbot at a designated block. Link the user to the chatbot immediately with Messenger Code. Display a checkbox for users to choose and receive messages from chatbot. Automatically respond to comments and send messages to Facebook user." />
+  <meta name="twitter:card" content="summary" />
+  <meta property="twitter:image" content="https://docs.botstar.com/img/growth-tools/messenger-ref-url.png" />
+  <link rel="shortcut icon" href="https://docs.botstar.com/img/favicon.png" />
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/vs.min.css" />
+  <script src="https://www.gstatic.com/firebasejs/5.0.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/5.0.0/firebase-database.js"></script>
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script>
+    var config = {
+      apiKey: "AIzaSyBzxEi_L9Vqc8ptCnEOWHsPFsJwplAxH9M",
+      authDomain: "botstar-doc.firebaseapp.com",
+      databaseURL: "https://botstar-doc.firebaseio.com",
+      projectId: "botstar-doc",
+      storageBucket: "botstar-doc.appspot.com",
+      messagingSenderId: "23430716203"
+    };
+    firebase.initializeApp(config);
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-110093622-6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-110093622-6');
+  </script>
+  <script type="text/javascript" src="https://docs.botstar.com/js/jquery.magnific-popup.min.js"></script>
+  <script type="text/javascript" src="https://docs.botstar.com/js/buttons.js"></script>
+  <script type="text/javascript" src="https://docs.botstar.com/js/custom.js"></script>
+  <script type="text/javascript" src="https://docs.botstar.com/js/lunr.js"></script>
+  <script src="https://unpkg.com/vanilla-back-to-top@7.1.14/dist/vanilla-back-to-top.min.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      addBackToTop({
+        "zIndex": 100
+      })
+    });
+  </script>
+  <link rel="stylesheet" href="https://docs.botstar.com/css/main.css" />
+</head>
+
+<body class="sideNavVisible separateOnPageNav">
+  <div class="navPusher">
+    <div class="docMainWrapper wrapper">
+      <div class="container docsNavContainer" id="docsNav">
+        <div class="headerLogo"><a href="http://botstar.com"><img height="25px"
+              src="https://docs.botstar.com/img/logo.png" /></a><a
+            href="https://docs.botstar.com/en/getting-started.html"><img height="25px"
+              src="https://docs.botstar.com/img/docs.png" /></a></div>
+        <nav class="toc">
+          <div class="toggleNav">
+            <section class="navWrapper wrapper">
+              <div class="navBreadcrumb wrapper">
+                <div class="navToggle" id="navToggler"><i></i></div>
+                <h2><i>›</i><span>Tutorials</span></h2>
+              </div>
+              <div class="navGroups">
+                <div class="navGroup"><img src="../../img/icon/getstarted.svg" alt="Getting Started" />
+                  <h1 class="navGroupCategoryTitle"><a style="color:#0d2b3e" href="/en/getting-started.html">Getting
+                      Started</a></h1>
+                </div>
+                <div class="navGroup"><img src="../../img/icon/design.svg" alt="Build" />
+                  <h1 class="navGroupCategoryTitle">Build</h1>
+                  <ul class="navGroupCategoryPost">
+                    <li class="navListItem sub"><a class="navItem">Basic</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/flow-editor.html">Flow Editor</a>
+                    </li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/cms.html">CMS</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/training.html">Training</a></li>
+                    <li class="navListItem sub"><a class="navItem">Advance</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/variable.html">Variables</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/troubleshoot-build.html">Common
+                        questions</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/block-priority-order.html">Block
+                        Priority Order</a></li>
+                  </ul>
+                </div>
+                <div class="navGroup"><img src="../../img/icon/publish.svg" alt="Publishing" />
+                  <h1 class="navGroupCategoryTitle">Publishing</h1>
+                  <ul class="navGroupCategoryPost">
+                    <li class="navListItem"><a class="navItem" href="/en/bot-publishing.html">Chatbot for Messenger</a>
+                    </li>
+                    <li class="navListItem"><a class="navItem" href="/en/publish-to-website.html">Chatbot for
+                        Website</a></li>
+                    <li class="navListItem"><a class="navItem" href="/en/troubleshoot-publishing-fb.html">Common
+                        questions</a></li>
+                  </ul>
+                </div>
+                <div class="navGroup"><img src="../../img/icon/settings.svg" alt="Configuration" />
+                  <h1 class="navGroupCategoryTitle"><a style="color:#0d2b3e"
+                      href="/en/configuration.html">Configuration</a></h1>
+                </div>
+                <div class="navGroup"><img src="../../img/icon/inbox-broadcast.svg" alt="Engagement" />
+                  <h1 class="navGroupCategoryTitle">Engagement</h1>
+                  <ul class="navGroupCategoryPost">
+                    <li class="navListItem"><a class="navItem" href="/en/inbox.html">Inbox</a></li>
+                    <li class="navListItem"><a class="navItem" href="/en/broadcasts.html">Broadcast</a></li>
+                    <li class="navListItem"><a class="navItem" href="/en/campaign.html">Campaign</a></li>
+                    <li class="navListItem"><a class="navItem" href="/en/human-takeover.html">Human Takeover</a></li>
+                  </ul>
+                </div>
+                <div class="navGroup"><img src="../../img/icon/audience.svg" alt="Audience" />
+                  <h1 class="navGroupCategoryTitle">Audience</h1>
+                  <ul class="navGroupCategoryPost">
+                    <li class="navListItem"><a class="navItem" href="/en/audience.html">Overview</a></li>
+                    <li class="navListItem"><a class="navItem" href="/en/tags.html">Tags</a></li>
+                    <li class="navListItem"><a class="navItem" href="/en/user-attributes.html">User Attributes</a></li>
+                    <li class="navListItem"><a class="navItem" href="/en/checkpoint.html">Checkpoint</a></li>
+                  </ul>
+                </div>
+                <div class="navGroup"><img src="../../img/icon/analytics.svg" alt="Analytics" />
+                  <h1 class="navGroupCategoryTitle"><a style="color:#0d2b3e" href="/en/analytics.html">Analytics</a>
+                  </h1>
+                </div>
+                <div class="navGroup"><img src="../../img/icon/plan-billing.svg" alt="Plans &amp; Billing" />
+                  <h1 class="navGroupCategoryTitle">Plans &amp; Billing</h1>
+                  <ul class="navGroupCategoryPost">
+                    <li class="navListItem"><a class="navItem" href="/en/plans.html">Plans</a></li>
+                    <li class="navListItem"><a class="navItem" href="/en/billing.html">Billing</a></li>
+                  </ul>
+                </div>
+                <div class="navGroup"><img src="../../img/icon/integration.svg" alt="Integrations" />
+                  <h1 class="navGroupCategoryTitle">Integrations</h1>
+                  <ul class="navGroupCategoryPost">
+                    <li class="navListItem sub"><a class="navItem">Intergrations hubs</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/zapier.html">Zapier</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/integromat.html">Integromat</a></li>
+                    <li class="navListItem sub"><a class="navItem">NLP Service</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/wit.ai.html">Wit.ai</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/dialogflow.html">Dialogflow</a></li>
+                    <li class="navListItem sub"><a class="navItem">CRM</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/hubspot.html">HubSpot</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/zendesk.html">Zendesk</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/pipedrive.html">Pipedrive</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/copper.html">Copper</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/zohocrm.html">Zoho CRM</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/salesforce.html">Salesforce</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/agilecrm.html">Agile CRM</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/freshsales.html">Freshsales</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem"
+                        href="/en/activecampaign.html">ActiveCampaign</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/mailchimp.html">Mailchimp</a></li>
+                    <li class="navListItem sub"><a class="navItem">Web platform</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/wordpress.html">WordPress</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/wix.html">Wix</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/webflow.html">Webflow</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/weebly.html">Weebly</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/shopify.html">Shopify</a></li>
+                    <li class="navListItem navSubItem"><a class="navItem" href="/en/squarespace.html">Squarespace</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="navGroup"><img src="../../img/icon/developer.svg" alt="For Developers" />
+                  <h1 class="navGroupCategoryTitle">For Developers</h1>
+                  <ul class="navGroupCategoryPost">
+                    <li class="navListItem"><a class="navItem" href="/en/message-api.html">Messages API</a></li>
+                    <li class="navListItem"><a class="navItem" href="/en/scripting.html">Scripting</a></li>
+                    <li class="navListItem"><a class="navItem" href="/en/json-api.html">JSON API</a></li>
+                    <li class="navListItem"><a class="navItem" href="/en/json-formats.html">JSON Formats</a></li>
+                  </ul>
+                </div>
+                <div class="navGroup"><img src="../../img/icon/template.svg" alt="Templates" />
+                  <h1 class="navGroupCategoryTitle"><a style="color:#0d2b3e" href="/en/templates.html">Templates</a>
+                  </h1>
+                </div>
+                <div class="navGroup"><img src="../../img/icon/tutorial.svg" alt="Tutorials" />
+                  <h1 class="navGroupCategoryTitle">Tutorials</h1>
+                  <ul class="navGroupCategoryPost">
+                    <li class="navListItem"><a class="navItem" href="/en/create-simple-bot.html">Create simple
+                        chatbot</a></li>
+                    <li class="navListItem"><a class="navItem" href="/en/fallback-deadend.html">How to use Fallback
+                        Block</a></li>
+                    <li class="navListItem"><a class="navItem" href="/en/broadcast-rules.html">Broadcast rules</a></li>
+                    <li class="navListItem"><a class="navItem" href="/en/viral-bot.html">Create BotStar Viral
+                        Chatbot</a></li>
+                    <li class="navListItem"><a class="navItem" href="/en/facebook-ads.html">Facebook Ads</a></li>
+                    <li class="navListItem"><a class="navItem" href="/en/global-trigger.html">Global Trigger</a></li>
+                    <li class="navListItem navListItemActive"><a class="navItem" href="/en/growth-tools.html">Growth
+                        Tools</a></li>
+                  </ul>
+                </div>
+                <div class="navGroup"><img src="../../img/icon/api.svg" alt="API Reference" />
+                  <h1 class="navGroupCategoryTitle"><a style="color:#0d2b3e" target="_blank" href="/api/index.html">API
+                      Reference</a></h1>
+                </div>
+                <div class="navGroup" style="font-size:15px;width:auto;padding-top:10px">
+                  <h1 class="navGroupCategoryTitle" style="margin-left:30px;font-size:15px" id="languages-menu-mobile">
+                    <a>Language: <span>English</span></a></h1>
+                </div>
+              </div>
+            </section>
+          </div>
+          <script>
+            try {
+              document.addEventListener('DOMContentLoaded', function () {
+                createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+                createToggler('#tocToggler', 'body', 'tocActive');
+                const headings = document.querySelector('.toc-headings');
+                headings && headings.addEventListener('click', function (event) {
+                  if (event.target.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                  }
+                }, false);
+
+                function createToggler(togglerSelector, targetSelector, className) {
+                  var toggler = document.querySelector(togglerSelector);
+                  var target = document.querySelector(targetSelector);
+                  if (toggler) {
+                    toggler.onclick = function (event) {
+                      event.preventDefault();
+                      target.classList.toggle(className);
+                    };
+                  }
+                }
+                document.querySelector('.navListItemActive') ? document.querySelector('.navListItemActive')
+                  .parentElement.style.display = 'block' : '';
+                document.querySelectorAll('.navGroupCategoryTitle').forEach(title => {
+                  title.addEventListener('click', function (e) {
+                    document.querySelectorAll('.navGroup>ul').forEach(nav => {
+                      if (nav.parentElement.querySelector('h1').innerText == this.innerText) {
+                        if (nav.style.display == 'block') {
+                          nav.style.display = 'none';
+                        } else {
+                          nav.style.display = 'block';
+                        }
+                      } else if (nav.style.display == 'block') {
+                        nav.style.display = 'none';
+                      }
+                    });
+                  });
+                })
+              });
+            } catch (e) {}
+          </script>
+        </nav>
+        <div class="navGroup"
+          style="font-size:15px;width:auto;padding-top:10px;border-top:rgba(204, 204, 204, 0.5) 1px solid">
+          <h1 class="navGroupCategoryTitle" style="margin-left:30px;font-size:15px" id="languages-menu"><a>Language:
+              <span>English</span></a></h1>
+        </div>
+      </div>
+      <div class="container mainContainer">
+        <div class="wrapper">
+          <div class="fixedHeaderContainer">
+            <div class="headerWrapper wrapper">
+              <header>
+                <div class="navigationWrapper navigationSlider">
+                  <nav class="slidingNav">
+                    <ul class="nav-site nav-site-internal">
+                      <form class="search"><span width="15px"><svg width="15px" xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 24 24">
+                            <defs>
+                              <style>
+                                .a {
+                                  fill: none;
+                                  stroke: #000;
+                                  stroke-linecap: round;
+                                  stroke-linejoin: round;
+                                }
+                              </style>
+                            </defs>
+                            <title>search</title>
+                            <circle class="a" cx="8.5" cy="8.5" r="8" />
+                            <line class="a" x1="14.156" y1="14.156" x2="23.5" y2="23.5" />
+                          </svg></span>
+                        <div class="lds-dual-ring"></div><input type="search" placeholder="Search documentation..." />
+                      </form>
+                      <div class="search-results">
+                        <ul class="results"></ul>
+                      </div>
+                      <li class="siteNavGroupActive"><a href="/en/getting-started.html" target="_self">Docs</a></li>
+                      <li class=""><a href="/api/index.html" target="_blank">API</a></li>
+                      <li class=""><a href="https://www.facebook.com/groups/botstar" target="_blank">Community</a></li>
+                      <li class=""><a href="https://app.botstar.com/" target="_blank">Go To App →</a></li>
+                    </ul>
+                  </nav>
+                </div>
+              </header>
+            </div>
+          </div>
+          <div class="post">
+            <header class="postHeader">
+              <h1 class="postHeaderTitle">Get More Subscribers Using Growth Tools Chatbot</h1>
+            </header>
+            <article>
+              <div><span>
+                  <p>Growth Tools are powerful features that help bring more users to your bot in different ways on
+                    Facebook. There are 4 tools available in BotStar named <strong>Messenger Ref URL</strong>,
+                    <strong>Messenger Code</strong>, <strong>Landing Page</strong> and <strong>Comment Trigger</strong>.
+                  </p>
+                  <h2><a class="anchor" aria-hidden="true" id="messenger-ref-url"></a><a href="#messenger-ref-url"
+                      aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16"
+                        version="1.1" viewBox="0 0 16 16" width="16">
+                        <path fill-rule="evenodd"
+                          d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+                        </path>
+                      </svg></a>Messenger Ref URL</h2>
+                  <p>Messenger Ref URL to open the conversation directly with the bot at a designated block. Follow
+                    these steps to setup this tool:</p>
+                  <ol>
+                    <li>
+                      <p>Go to <code>Connect</code>&gt;<code>Growth Tool</code> and select Messenger Ref URL.</p>
+                      <p Style="max-width: 30%;">
+                        <img src="../../img/growth-tools/messenger-ref-url.png" alt="">
+                        <br /></p>
+                    </li>
+                    <li>
+                      <p>Under General Settings section, fill in the name for this new tool and turn on the "Active"
+                        option to enable it. Under Action section, you can create variables which will be assigned
+                        directly to the user, so you can use them in the Flow Editor to identify user.</p>
+                      <p Style="max-width: 70%;">
+                        <img src="../../img/growth-tools/ref-url-configuration.png" alt="">
+                        <br /></p>
+                    </li>
+                    <li>
+                      <p>Click Next to open Trigger site. Here you'll get the URL which allows users to start a
+                        conversation with bot. The message sent to users will be set up in Message section as in the
+                        below picture. This message can be a new text or an existing block.</p>
+                      <p Style="max-width: 70%;">
+                        <img src="../../img/growth-tools/ref-url-trigger.png" alt="">
+                        <br /></p>
+                    </li>
+                    <li>
+                      <p>Click Next to open Preview site. The Message Preview section displays how the message will show
+                        to users. Click Create to finish setting up this tool.</p>
+                      <p Style="max-width: 70%;">
+                        <img src="../../img/growth-tools/ref-url-preview.png" alt="">
+                        <br /></p>
+                    </li>
+                    <li>
+                      <p>Below is the result:</p>
+                      <p Style="max-width: 60%;">
+                        <img src="../../img/growth-tools/ref-url-result.png" alt="">
+                        <br /></p>
+                    </li>
+                  </ol>
+                  <h2><a class="anchor" aria-hidden="true" id="messenger-code"></a><a href="#messenger-code"
+                      aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16"
+                        version="1.1" viewBox="0 0 16 16" width="16">
+                        <path fill-rule="evenodd"
+                          d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+                        </path>
+                      </svg></a>Messenger Code</h2>
+                  <p>Messenger Code can be scanned to link the user to the bot immediately.</p>
+                  <ol>
+                    <li>
+                      <p>Go to <code>Connect</code>&gt;<code>Growth Tool</code> and select Messenger Code. Follow these
+                        steps to have one:</p>
+                      <p Style="max-width: 30%;">
+                        <img src="../../img/growth-tools/messenger-code.png" alt="">
+                        <br /></p>
+                    </li>
+                    <li>
+                      <p>Under General Settings section, fill in the name for this new tool and turn on the "Active"
+                        option to enable it. Under Action section, you can create variables which will be assigned
+                        directly to the user, so you can use them in the Flow Editor to identify user.</p>
+                      <p Style="max-width: 70%;">
+                        <img src="../../img/growth-tools/messenger-code-configuration.png" alt="">
+                        <br /></p>
+                    </li>
+                    <li>
+                      <p>Click Next to open Trigger site. Here you setup the size and content for Messenger Code.</p>
+                      <p Style="max-width: 70%;">
+                        <img src="../../img/growth-tools/messenger-code-trigger.png" alt="">
+                        <br /></p>
+                    </li>
+                    <li>
+                      <p>Click Next to open Preview site. The Message Preview section displays how the message will be
+                        shown to users. The Settings Preview section shows the Messenger Code that you've created. Click
+                        <strong>Download</strong> to save the code and click Create to finish setting up this tool.</p>
+                      <p Style="max-width: 60%;">
+                        <img src="../../img/growth-tools/messenger-code-preview.png" alt="">
+                        <br /></p>
+                    </li>
+                  </ol>
+                  <p>Whenever users scan this Code with Messenger App, the designated messeage will immediately popup.
+                  </p>
+                  <h2><a class="anchor" aria-hidden="true" id="landing-page"></a><a href="#landing-page"
+                      aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16"
+                        version="1.1" viewBox="0 0 16 16" width="16">
+                        <path fill-rule="evenodd"
+                          d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+                        </path>
+                      </svg></a>Landing page</h2>
+                  <p>This tool allows you to displays a checkbox on the form to allow users to choose to receive
+                    messages from your bot. Follow these steps to setup it:</p>
+                  <ol>
+                    <li>
+                      <p>Go to <code>Connect</code>&gt;<code>Growth Tool</code> and select Landing Page.</p>
+                      <p Style="max-width: 30%;">
+                        <img src="../../img/growth-tools/landing-page.png" alt="">
+                        <br /></p>
+                    </li>
+                    <li>
+                      <p>Under General Settings section, fill in the name for this new tool and turn on the "Active"
+                        option to enable it. Under Action section, you can create variables which will be assigned
+                        directly to the user, so you can use them in the Flow Editor to identify user.</p>
+                      <p Style="max-width: 70%;">
+                        <img src="../../img/growth-tools/landing-page-configuration.png" alt="">
+                        <br /></p>
+                    </li>
+                    <li>
+                      <p>In Trigger site, you can customize the plugin. To be more specific, you'll decide how it's
+                        displayed on the landing page and which text to show.</p>
+                      <p Style="max-width: 70%;">
+                        <img src="../../img/growth-tools/landing-page-trigger.png" alt="">
+                        <br /></p>
+                    </li>
+                    <li>
+                      <p>Click Next to open Preview site. The Message Preview section displays how the message will be
+                        shown to users. Under Settings Preview section, copy and insert the <strong>Plugin Code</strong>
+                        into the <strong>HTML code</strong> of your website right before the <strong>&lt; /body
+                          &gt;</strong> tag. Then, copy and insert the <strong>HTML Tag</strong> into the <strong>HTML
+                          code</strong> of your website anywhere you want to display the plugin. Finally, click Create
+                        to finish setting up this tool.</p>
+                      <p Style="max-width: 70%;">
+                        <img src="../../img/growth-tools/landing-page-preview.png" alt="">
+                        <br /></p>
+                      <blockquote>
+                        <p><strong>Note</strong>: Before using the code on your website, please add the domain name to
+                          the Whitelisted Domains.</p>
+                      </blockquote>
+                    </li>
+                    <li>
+                      <p>After successfully setting up this tool, you'll get the button similar to below:</p>
+                      <p Style="max-width: 60%;">
+                        <img src="../../img/growth-tools/landing-page-result.png" alt="">
+                        <br /></p>
+                    </li>
+                  </ol>
+                  <h2><a class="anchor" aria-hidden="true" id="comment-trigger"></a><a href="#comment-trigger"
+                      aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16"
+                        version="1.1" viewBox="0 0 16 16" width="16">
+                        <path fill-rule="evenodd"
+                          d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z">
+                        </path>
+                      </svg></a>Comment Trigger</h2>
+                  <p>Bot automatically respond to comments and send messages to customers when you create this tool for
+                    your bot.</p>
+                  <ol>
+                    <li>
+                      <p>Go to <code>Connect</code>&gt;<code>Growth Tool</code> and select Comment Trigger.</p>
+                      <p Style="max-width: 30%;">
+                        <img src="../../img/growth-tools/comment-trigger.png" alt="">
+                        <br /></p>
+                    </li>
+                    <li>
+                      <p>Firstly, please grant Facebook the permission to control your fanpgae message. After that,
+                        under General Settings section, fill in the name for this new tool and turn on the "Active"
+                        option to enable it. Under Action section, you can create variables which will be assigned
+                        directly to the user, so you can use them in the Flow Editor to identify user.</p>
+                      <p Style="max-width: 70%;">
+                        <img src="../../img/growth-tools/comment-trigger-configuration.png" alt="">
+                        <br /></p>
+                    </li>
+                    <li>
+                      <p>In Trigger site, you can select specific posts to insert plugin and create conditions to filter
+                        the audience. If you wish to respond to all replies of comments, turn on <strong>Including
+                          replies</strong> option. And don't forget to write greeting message which will be shown under
+                        each comment/reply.</p>
+                      <p Style="max-width: 70%;">
+                        <img src="../../img/growth-tools/comment-trigger-plugin-option.png" alt="">
+                        <br /></p>
+                    </li>
+                    <li>
+                      <p>Under Message section, enable <strong>Use Opt-in Block</strong> option. This allows bot to send
+                        Opt-in block after user response greeting message. After that, add filter condition to select
+                        which audience this message will be sent to. Lastly, setup the Opt-in Block by composing a text
+                        or select an existing block.</p>
+                      <p Style="max-width: 70%;">
+                        <img src="../../img/growth-tools/comment-trigger-message.png" alt=""></p>
+                    </li>
+                  </ol>
+                </span></div>
+            </article>
+            <footer>
+              <h2>Questions?</h2>
+              <p>We’re always happy to help with code or other questions you might have! <a onclick="openSearch();"
+                  href="#">Search our documentation</a>, join our <a target="_blank"
+                  href="https://www.facebook.com/groups/botstar">community</a>, or <a
+                  href="https://www.botstar.com/contact-us">connect with our sales team</a> </p>
+              <p class="feedback">
+                <span><a id="numbervote"> </a> people found this page helpful. </span><span>Let us know if you think so
+                  too.</span>
+                <span>Yes</span>
+                <span>No</span>
+              </p>
+              <p class="thankyou">
+                Thank you for helping improve BotStar's documentation.
+                If you need help or have any questions, please consider
+                <a href="https://www.facebook.com/groups/botstar/"> contacting support</a>
+              </p>
+            </footer>
+          </div>
+          <div class="docs-prevnext"><a class="docs-prev button" href="/en/global-trigger.html">← How to setup Global
+              Trigger for your block</a></div>
+        </div>
+        <nav class="onPageNav">
+          <ul class="toc-headings">
+            <li><a href="#messenger-ref-url">Messenger Ref URL</a></li>
+            <li><a href="#messenger-code">Messenger Code</a></li>
+            <li><a href="#landing-page">Landing page</a></li>
+            <li><a href="#comment-trigger">Comment Trigger</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="overlay"></div>
+    </div>
+  </div>
+  <div id="languages-dropdown" class="hide">
+    <ul id="languages-dropdown-items"><a href="/en/growth-tools.html">
+        <li>English</li>
+      </a><a href="/vi/growth-tools.html">
+        <li>Vietnamese</li>
+      </a></ul>
+  </div>
+</body>
+
+</html>
